@@ -85,7 +85,7 @@ const Index = () => {
           
           {/* Main headline */}
           <h1 
-            className="font-display text-6xl md:text-8xl lg:text-9xl text-foreground mb-6 opacity-0 animate-fade-in leading-[0.9]" 
+            className="font-display text-5xl md:text-6xl lg:text-7xl text-foreground mb-6 opacity-0 animate-fade-in leading-[0.9]" 
             style={{ animationDelay: "150ms" }}
           >
             TRANSFORMAMOS
