@@ -61,6 +61,11 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        asete: {
+          olive: "hsl(var(--asete-olive))",
+          dark: "hsl(var(--asete-dark))",
+          cream: "hsl(var(--asete-cream))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
