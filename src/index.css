@@ -43,6 +43,11 @@
     --shadow-glow: 0 0 80px hsl(262, 93%, 33%, 0.4);
     --shadow-card: 0 25px 50px -12px hsl(262, 100%, 10%, 0.8);
 
+    /* ASETE Custom tokens */
+    --asete-olive: 47 37% 16%;
+    --asete-dark: 0 0% 0%;
+    --asete-cream: 45 30% 95%;
+
     --sidebar-background: 260 100% 5%;
     --sidebar-foreground: 0 0% 98%;
     --sidebar-primary: 262 93% 33%;
