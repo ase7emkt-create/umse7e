@@ -14,8 +14,8 @@ export default {
     },
     extend: {
       fontFamily: {
-        sans: ['Space Grotesk', 'sans-serif'],
-        display: ['Bebas Neue', 'sans-serif'],
+        sans: ['Sora', 'sans-serif'],
+        display: ['Clash Display', 'sans-serif'],
       },
       colors: {
         border: "hsl(var(--border))",
@@ -62,9 +62,12 @@ export default {
           ring: "hsl(var(--sidebar-ring))",
         },
         asete: {
-          olive: "hsl(var(--asete-olive))",
+          coral: "hsl(var(--asete-coral))",
+          "coral-light": "hsl(var(--asete-coral-light))",
           dark: "hsl(var(--asete-dark))",
+          charcoal: "hsl(var(--asete-charcoal))",
           cream: "hsl(var(--asete-cream))",
+          warm: "hsl(var(--asete-warm))",
         },
       },
       borderRadius: {
